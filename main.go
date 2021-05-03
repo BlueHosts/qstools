@@ -1,6 +1,6 @@
 package qstools
 
-func Hello(){
+func Hello() string{
 
 	return "Hello,qstools!"
 }
