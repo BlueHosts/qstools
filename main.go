@@ -1,6 +1,6 @@
-package gotools
+package qstools
 
 func Hello(){
 
-	return "Hello,gotools!"
+	return "Hello,qstools!"
 }
