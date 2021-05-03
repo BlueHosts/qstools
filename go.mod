@@ -1,3 +1,3 @@
-module github.com/gotools
+module github.com/qstools
 
 go 1.14
